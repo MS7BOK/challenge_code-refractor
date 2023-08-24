@@ -50,13 +50,15 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* should i have changed teh below to use img or is it okay to have as a background (cant put alt element unless it an html element) */
+.hero img {
     height: 800px;
+    object-fit: cover;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");/* add alt description here? alt="A diverse team of professionals collaborating around a conference table."*/  
-    background-size: cover;
-    background-position: center;
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    /* background-size: cover; */
+    /* background-position: center; */
 }
 
 .float-left {
