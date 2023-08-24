@@ -13,4 +13,4 @@ Screenshots:
 ![Screenshot of Application](https://ms7bok.github.io/code-refractor/assets/screenshots/websiteScreenshot2.png)
 
 Link of deployed project:
-![https://ms7bok.github.io/code-refractor](https://ms7bok.github.io/code-refractor)
+![https://ms7bok.github.io/code-refractor](https://ms7bok.github.io/code-refractor/index.html)
